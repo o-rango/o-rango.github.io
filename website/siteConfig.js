@@ -20,13 +20,15 @@
   },
 ];
 */
-const repoUrl = 'https://github.com/o-rango/';
+const repoUrlLink = 'https://github.com/o-rango/';
+
+const repoUrl = 'https://github.com/o-rango/o-rango.github.io'
 
 const siteConfig = {
   title: '' /* title for your website */,
   tagline: 'Agnostic Front-end Architecture',
   url: 'https://o-rango.io' /* your website url */,
-  baseUrl: '/website' /* base url for your project */,
+  baseUrl: '/o-rango.github.io' /* base url for your project */,
   // For github.io type URLs, you would set the url and baseUrl like:
   //   url: 'https://facebook.github.io',
   //   baseUrl: '/test-site/',
@@ -43,7 +45,7 @@ const siteConfig = {
     {doc: 'doc1', label: 'Platform'},
     {doc: 'doc1', label: 'Components'},
     {doc: 'doc4', label: 'Roadmap'},
-    {href: repoUrl, label: 'GitHub'}
+    {href: repoUrlLink, label: 'GitHub'}
   ],
   repoUrl,
   // If you have users set above, you add it here:
