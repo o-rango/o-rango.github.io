@@ -1,0 +1,8 @@
+{
+  "docs": {
+    "architecture": ["doc1"]
+  },
+  "docs-other": {
+    "First Category": ["doc4"]
+  }
+}
