@@ -213,7 +213,7 @@ That are configurable and is framework agnostic and focused on web standards.
             <div className="row">
               <a
                 className="btn primary"
-                href="https://www.facebook.com/sonar/public/mac">
+                href="#">
                Architecture overview
               </a>
               <a className="btn" href="/docs/understand.html">
@@ -256,18 +256,10 @@ That are configurable and is framework agnostic and focused on web standards.
             </a>
           </div>
           <div className="col center">
-            <img
-              src="/img/SonarKit.png"
-              srcSet="/img/SonarKit.png 1x, /img/SonarKit@2x.png 2x"
-            />
           </div>
         </div>
         <div className="content row">
           <div className="col">
-            <img
-              src="/img/plugins.png"
-              srcSet="/img/plugins.png 1x, /img/plugins@2x.png 2x"
-            />
           </div>
           <div className="col">
             <h4>Open Source</h4>
