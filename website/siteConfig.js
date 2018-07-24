@@ -59,9 +59,9 @@ const siteConfig = {
   /* colors for website */
   colors: {
     primaryColor: '#FF3333',
-    secondaryColor: '#333333',
+    secondaryColor: '#CC3333',
     accentColor: '#785BA3',
-    actionColor: '#008cf2',
+    actionColor: '#330066',
   },
 
   /* custom fonts for website */
@@ -78,8 +78,7 @@ const siteConfig = {
 
   // This copyright info is used in /core/Footer.js and blog rss/atom feeds.
   copyright:
-    `Copyright © ${new Date().getFullYear()}
-                  O-RANGO`,
+    `Copyright © ${new Date().getFullYear()} O-RANGO`,
 
   highlight: {
     // Highlight.js theme to use for syntax highlighting in code blocks

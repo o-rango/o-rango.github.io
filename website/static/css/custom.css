@@ -307,9 +307,16 @@ footer iframe {
 }
 
 @media screen and (max-width: 680px) {
+  .splash .btn {
+    margin-top: 1em;
+  }
   .splash .splashScreen {
     margin-top: 20px;
     top: 120%;
+  }
+  .fixedHeaderContainer header img {
+    height: 100%;
+    margin: 3.6em;
   }
 }
 
@@ -320,6 +327,12 @@ footer iframe {
   }
   .navigationSlider .slidingNav ul li:last-child a {
     padding-right: 0;
+  }
+
+
+  .fixedHeaderContainer header img {
+    height: 100%;
+    margin: 3.6em;
   }
 }
 
