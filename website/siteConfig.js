@@ -28,7 +28,7 @@ const siteConfig = {
   title: '' /* title for your website */,
   tagline: 'Agnostic Front-end Architecture',
   url: 'https://o-rango.io' /* your website url */,
-  baseUrl: '/o-rango.github.io' /* base url for your project */,
+  baseUrl: '/' /* base url for your project */,
   // For github.io type URLs, you would set the url and baseUrl like:
   //   url: 'https://facebook.github.io',
   //   baseUrl: '/test-site/',
@@ -93,13 +93,8 @@ const siteConfig = {
   /* On page navigation for the current documentation page */
   onPageNav: 'separate',
 
-  /* Open Graph and Twitter card images */
-  ogImage: 'img/docusaurus.png',
-  twitterImage: 'img/docusaurus.png',
-
   // You may provide arbitrary config keys to be used as needed by your
   // template. For example, if you need your repo's URL...
-  //   repoUrl: 'https://github.com/facebook/test-site',
 };
 
 module.exports = siteConfig;
