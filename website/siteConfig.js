@@ -54,7 +54,7 @@ const siteConfig = {
   /* path to images for header/footer */
   headerIcon: 'img/logo.svg',
   footerIcon: 'img/mini_logo.svg',
-  favicon: '',
+  favicon: 'img/icons/favicon-96x96.png',
 
   /* colors for website */
   colors: {
