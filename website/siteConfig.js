@@ -78,9 +78,8 @@ const siteConfig = {
 
   // This copyright info is used in /core/Footer.js and blog rss/atom feeds.
   copyright:
-    'Copyright © ' +
-    new Date().getFullYear() +
-    ' O-RANGO',
+    `Copyright © ${new Date().getFullYear()}
+                  O-RANGO`,
 
   highlight: {
     // Highlight.js theme to use for syntax highlighting in code blocks
