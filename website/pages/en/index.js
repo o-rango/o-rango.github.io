@@ -63,8 +63,8 @@ That are configurable and is framework agnostic and focused on web standards.
         </div>
         <div className="content row">
           <div className="col">
-            <h4>Tools</h4>
-            <h3>Dedicated tools and components</h3>
+            <h4>Components</h4>
+            <h3>Design system  built on top of web standards for web components </h3>
             <p>
             O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano de 1500, quando uma misturou os caracteres de um texto para criar um espécime de livro. Este texto não só sobreviveu 5 séculos, mas também o salto para a tipografia electrónica, mantendo-se essencialmente inalterada. Foi popularizada nos anos 60 com a disponibilização das folhas de Letraset, que continham passagens com Lorem Ipsum, e mais recentemente com os programas de publicação como o Aldus PageMaker que incluem versões do Lorem Ipsum.
             </p>
@@ -79,8 +79,8 @@ That are configurable and is framework agnostic and focused on web standards.
           <div className="col">
           </div>
           <div className="col">
-            <h4>Open Source</h4>
-            <h3>Contributing to O-RANGO platform</h3>
+            <h4>Tools</h4>
+            <h3>Tools that supports development of UI components and apps</h3>
             <p>
             O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano de 1500, quando uma misturou os caracteres de um texto para criar um espécime de livro. Este texto não só sobreviveu 5 séculos, mas também o salto para a tipografia electrónica, mantendo-se essencialmente inalterada. Foi popularizada nos anos 60 com a disponibilização das folhas de Letraset, que continham passagens com Lorem Ipsum, e mais recentemente com os programas de publicação como o Aldus PageMaker que incluem versões do Lorem Ipsum.
             </p>
